@@ -14,7 +14,8 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-
+    multi=num1*num2
+    return multi
 end
 
 def modulo(num1, num2)
